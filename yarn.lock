@@ -170,9 +170,9 @@ cliui@^2.1.0:
     right-align "^0.1.1"
     wordwrap "0.0.2"
 
-coffeescript@~2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-2.0.2.tgz#065702a484b46194b8c7eb08481e6d4dc38b87c9"
+coffeescript@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-2.1.0.tgz#8cb7ce12021ab9f84d8c524f54edbd6141374606"
 
 commander@0.6.1:
   version "0.6.1"
@@ -183,8 +183,8 @@ commander@2.3.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.3.0.tgz#fd430e889832ec353b9acd1de217c11cb3eef873"
 
 commander@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.12.2.tgz#0f5946c427ed9ec0d91a46bb9def53e54650e555"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -434,8 +434,8 @@ matcher-collection@^1.0.0:
     minimatch "^3.0.2"
 
 mime@^1.2.11:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/mime/-/mime-1.4.1.tgz#121f9ebc49e3766f311a76e1fa1c8003c4b03aa6"
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
 
 minimatch@0.3:
   version "0.3.0"
