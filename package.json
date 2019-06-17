@@ -18,14 +18,14 @@
     "test": "mocha"
   },
   "dependencies": {
-    "broccoli-persistent-filter": "^1.1.5",
+    "broccoli-persistent-filter": "^2.3.0",
     "coffeescript": "^2.1.0",
     "json-stable-stringify": "^1.0.0"
   },
   "devDependencies": {
-    "broccoli-fixture": "^0.1.0",
-    "chai": "^3.4.0",
-    "chai-as-promised": "^5.1.0",
-    "mocha": "^2.3.3"
+    "broccoli-fixture": "^1.0.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.1.4"
   }
 }
