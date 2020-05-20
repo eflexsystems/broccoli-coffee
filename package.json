@@ -1,7 +1,7 @@
 {
   "name": "@eflexsystems/broccoli-coffee",
   "description": "CoffeeScript filter for Broccoli",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "author": "Jacob Jewell <jakesjews@gmail.com>",
   "main": "index.js",
   "license": "MIT",
@@ -18,14 +18,14 @@
     "test": "mocha"
   },
   "dependencies": {
-    "broccoli-persistent-filter": "^2.3.0",
-    "coffeescript": "^2.1.0",
+    "broccoli-persistent-filter": "^3.0.0",
+    "coffeescript": "^2.5.1",
     "json-stable-stringify": "^1.0.0"
   },
   "devDependencies": {
     "broccoli-fixture": "^1.0.0",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "mocha": "^6.1.4"
+    "mocha": "^7.1.2"
   }
 }
